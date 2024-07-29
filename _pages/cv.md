@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MPhil in Literature, Helsinki University, 2025 (expected)
+* BA in Finnish Literature, Helsinki University, 2024 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023 – Spring 2024: Teaching Assistant
+  * Finnish language for Japanese students (in Japanese)
+  * Duties included: teaching pronounciation, consultation on grammar and spoken language style, grading papers
+  * Supervisor: Mizumoto Hideaki, Hokkaido University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023: Communications Consultant
+  * [Rianno](https://www.rianno.fi/)
+  * Duties included: Writing publications for major global clients, publications in major Finnish newspapers, graphic design, tech consultation
+  * Supervisor: Riitta Auvinen, CEO
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020 – Summer 2021: Communications Officer
+  * Conscript Band Finland
+  * Duties included: Overseeing of the communications and media work for a band of a hundred musicians, leading a 6–10 person media team
+  * Supervisor: Juhani Valtasalmi, music captain
+
+* Summer 2020: Social Media Content Creator
+  * ALLIANSSI
+  * Duties included: Writing, photographing, interviewing and publishing for social media
+  * Supervisor: Salla Merikukka, communications leader
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Public speaking and performing (10+ years of experience in acting and directing) 
+* Writing
+  * Academic Writing
+  * Fiction (see 'Fiction' for references)
+  * Journalistic writing (as per career experience)
+* Computer stuff
+  * Problem-solving, plethora of experience in various tools and programs
+  * Microsoft Office (especially Excel, PowerPoint, Word)
+  * Graphic design and video editing (Photoshop, InDesign, Premiere, FinalCut, Resolve)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2021–2023, Treasurer, Putkinotko ry
+* 2020–2022, Secretary, Sottiisi Funclub ry
+* Various other leadership positions in student and hobby organisations and associations
