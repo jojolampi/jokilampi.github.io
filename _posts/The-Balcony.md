@@ -1,7 +1,7 @@
 ---
 title: 'The Balcony'
 date: 2024-05-02
-permalink: /posts/2014/08/blog-post-3/
+permalink: /fiction/the-balcony/
 tags:
   - fiction
   - short story
