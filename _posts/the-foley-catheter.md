@@ -1,7 +1,7 @@
 ---
 title: 'The Foley Catheter'
 date: 2024-07-14
-permalink: /posts/the-foley-catheter/
+permalink: /fiction/the-foley-catheter/
 tags:
   - fiction
   - shortstory
