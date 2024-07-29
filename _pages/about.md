@@ -22,3 +22,5 @@ In future developments I'll be building the following things:
 * separation of fiction and science
 * a sidebar better optimised for my purposes (I'm not big on social media).
 * removing the sidebar entirely on the Fiction page so you don't have to stare at my face as you read :)
+
+I'm keeping the Guide page up for now because it is indeed very useful when I edit the side. I'll remove it eventually.
