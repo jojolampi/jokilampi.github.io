@@ -11,8 +11,8 @@ I wrote this story for a short story course at Hokkaido University in Spring 202
 
 The Foley Catheter
 ======
-Or the Unfortunate Circumstances of One Elias Barkley
------
+##### Or the Unfortunate Circumstances of One Elias Barkley
+
 
 In 2007, when Elias Barkley began his senior year of Tufts medical school, he rewarded himself with the iPhone. Not an iPhone, like an iPhone XR or an iPhone 12 Pro, but the iPhone, first of her name, that many others would follow in the years to come. By then, his laptop (a 2004 PowerBook) had long since turned from an academic toolkit into a portal to worlds of entertainment. With a smartphone, Elias didn't even try to put up a facade of practicality.
 
