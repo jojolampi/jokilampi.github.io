@@ -1,3 +1,7 @@
+# Hi!
+This is my academic page. Most relevant information on the edits I've made is on the front page.
+Below you can find the Academic Pages basic info.
+
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
